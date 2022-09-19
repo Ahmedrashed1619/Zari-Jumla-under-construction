@@ -56,9 +56,9 @@ body{
     font-size: 18px;
 }
 
-.content form input , .content form input:focus {
+/* .content form input , .content form input:focus {
     background-color: var(--mainColor);
-}
+} */
 
 .content form input::placeholder {
     color: #000;
